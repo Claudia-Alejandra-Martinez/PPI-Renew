@@ -1,3 +1,17 @@
+"""
+Network Pharmacology Shortest-Path & Convergence Filter Pipeline
+
+This script constitutes the computational core of the network pharmacology workflow. It is designed to identify and isolate the most
+direct biological signaling cascades bridging multicomponent formulation targets (Renew®) and physiological condition networks.
+
+Output
+------
+nodes_scores.csv
+shortest_paths_all.csv
+filtered_shortest_paths.csv
+20260902_shortest_paths_2Renew_6Condition.csv
+""" 
+
 import pandas as pd
 import nx_cugraph as nx 
 from collections import Counter, defaultdict
@@ -75,7 +89,7 @@ scores = [node_scores.get(node, 0) for node in candidate_nodes]
 df_scores = pd.DataFrame({'Nodes': candidate_nodes, 'Path_Related_Score': scores})
 
 # Export the node scores output
-df_scores.to_csv("output_table_0_scores.csv", index=False)
+df_scores.to_csv("nodes_scores.csv", index=False)
 
 
 # ====================================================
@@ -127,7 +141,7 @@ df_paths = pd.DataFrame(rows_paths)
 df_paths = df_paths[["Target_Compounds", "Compound", "PathLength", "Path", "Compounds_2"]]
 
 # Export the paths output
-df_paths.to_csv("output_table_1_paths.csv", index=False)
+df_paths.to_csv("shortest_paths_all.csv", index=False)
 
 
 # ====================================================
@@ -197,7 +211,7 @@ for rec in paths_details:
 df_common_full = pd.DataFrame(paths_details)
 
 # Export the final converged paths output
-df_common_full.to_csv("output_table_2_common_full.csv", index=False)
+df_common_full.to_csv("filtered_shortest_paths.csv", index=False)
 
 
 # ====================================================
@@ -254,4 +268,4 @@ for (path, target_comps, compounds2) in filtered_final_paths:
 df_edges = pd.DataFrame(edges_data)
 
 # Export the new output to import directly into Cytoscape
-df_edges.to_csv("output_table_3_cytoscape_edges.csv", index=False)
+df_edges.to_csv("20260902_shortest_paths_2Renew_6Condition.csv", index=False)
