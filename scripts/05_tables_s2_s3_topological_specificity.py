@@ -42,7 +42,7 @@ from scipy.stats import fisher_exact, mannwhitneyu
 BASE_DIR    = Path("data")
 INTERACTOME = BASE_DIR / "ppi_renew_application_all.csv"   # Prot_A, Prot_B
 ALL_PATHS   = BASE_DIR / "shortest_paths_all.csv"          # all candidate paths
-CORE_PATHS  = BASE_DIR / "shortest_paths_2Renew_6Condition.csv"                  # paths passing >=2 / >=6
+CORE_PATHS  = BASE_DIR / "20260902_shortest_paths_2Renew_6Condition.csv"    # paths passing >=2 / >=6
 SCORES      = BASE_DIR / "permutation_scores.csv"          # Nodes, Empirical_P_Value, ...
 
 OUT_DIR = Path("output")
