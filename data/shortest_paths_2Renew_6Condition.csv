@@ -1,0 +1,87 @@
+Path,Path_Length,Edge,Edge_Label,Prot_A,Prot_B
+HDAC6 -> EGFR -> PRKCA -> PRKD1,4,PRKCA (interacts with) EGFR,First_Neighbor_Second,PRKCA,EGFR
+ALDH1A1 -> EPHX2 -> PRKAG1 -> MTOR -> PRKCA -> PRKD1,6,PRKAG1 (interacts with) EPHX2,First_Neighbor_Second,PRKAG1,EPHX2
+ALDH1A1 -> EPHX2 -> PRKAG1 -> MTOR -> PRKCA -> PRKD1,6,MTOR (interacts with) PRKAG1,Second_Neighbor_Third,MTOR,PRKAG1
+ALDH1A1 -> EPHX2 -> PRKAG1 -> MTOR -> PRKCA -> PRKD1,6,PRKCA (interacts with) MTOR,Third_Neighbor_Fourth,PRKCA,MTOR
+TSHR -> GNAS -> GNB5 -> PCNA -> PARP1,5,GNB5 (interacts with) GNAS,First_Neighbor_Second,GNB5,GNAS
+TSHR -> GNAS -> GNB5 -> PCNA -> PARP1,5,PCNA (interacts with) GNB5,Second_Neighbor_Third,PCNA,GNB5
+TSHR -> GNAS -> GNB5 -> PCNA -> PARP1,5,PARP1 (interacts with) PCNA,Third_Neighbor_Fourth,PARP1,PCNA
+GAA -> HK1 -> BAX -> SFN -> FOXO1 -> STK4,6,BAX (interacts with) HK1,First_Neighbor_Second,BAX,HK1
+GAA -> HK1 -> BAX -> SFN -> FOXO1 -> STK4,6,SFN (interacts with) BAX,Second_Neighbor_Third,SFN,BAX
+GAA -> HK1 -> BAX -> SFN -> FOXO1 -> STK4,6,FOXO1 (interacts with) SFN,Third_Neighbor_Fourth,FOXO1,SFN
+GAA -> HK1 -> BAX -> SFN -> FOXO1 -> STK4,6,STK4 (interacts with) FOXO1,Fourth_Neighbor_Fifth,STK4,FOXO1
+TSHR -> GNB1 -> FAU -> HSD3B1 -> CYP1A1 -> GSTM1,6,FAU (interacts with) GNB1,First_Neighbor_Second,FAU,GNB1
+TSHR -> GNB1 -> FAU -> HSD3B1 -> CYP1A1 -> GSTM1,6,HSD3B1 (interacts with) FAU,Second_Neighbor_Third,HSD3B1,FAU
+HDAC6 -> PTGES3 -> PTGS2,3,PTGS2 (interacts with) PTGES3,First_Neighbor_Second,PTGS2,PTGES3
+ABL1 -> PIK3R1 -> TRAF2 -> GSTP1 -> GSTM1,5,GSTP1 (interacts with) TRAF2,Second_Neighbor_Third,GSTP1,TRAF2
+GAA -> HK1 -> BAX -> TP53 -> EP300,5,TP53 (interacts with) BAX,Second_Neighbor_Third,TP53,BAX
+GAA -> HK1 -> BAX -> TP53 -> EP300,5,EP300 (interacts with) TP53,Third_Neighbor_Fourth,EP300,TP53
+KMT2A -> CREB1 -> IL6,3,IL6 (interacts with) CREB1,First_Neighbor_Second,IL6,CREB1
+ALDH1A1 -> CYP1A1 -> GSTP1 -> TRAF2 -> TNF,5,TNF (interacts with) TRAF2,Third_Neighbor_Fourth,TNF,TRAF2
+ABL1 -> TP73 -> EP300,3,TP73 (interacts with) ABL1,Input_First_Neighbor,TP73,ABL1
+ABL1 -> TP73 -> EP300,3,EP300 (interacts with) TP73,First_Neighbor_Second,EP300,TP73
+TSHR -> GCG -> PAX6 -> EP300,4,PAX6 (interacts with) GCG,First_Neighbor_Second,PAX6,GCG
+TSHR -> GCG -> PAX6 -> EP300,4,EP300 (interacts with) PAX6,Second_Neighbor_Third,EP300,PAX6
+MEN1 -> CTNNB1 -> CASP3 -> PARP1,4,CASP3 (interacts with) CTNNB1,First_Neighbor_Second,CASP3,CTNNB1
+MEN1 -> CTNNB1 -> CASP3 -> PARP1,4,PARP1 (interacts with) CASP3,Second_Neighbor_Third,PARP1,CASP3
+TSHR -> IGLL5 -> IL6,3,IL6 (interacts with) IGLL5,First_Neighbor_Second,IL6,IGLL5
+TSHR -> IGHV3-16 -> IL6R -> STAT3 -> PTGS2,5,IL6R (interacts with) IGHV3-16,First_Neighbor_Second,IL6R,IGHV3-16
+TSHR -> IGHV3-16 -> IL6R -> STAT3 -> PTGS2,5,STAT3 (interacts with) IL6R,Second_Neighbor_Third,STAT3,IL6R
+TSHR -> IGHV3-16 -> IL6R -> STAT3 -> PTGS2,5,PTGS2 (interacts with) STAT3,Third_Neighbor_Fourth,PTGS2,STAT3
+KMT2A -> H3C6 -> TP53 -> PTGS2,4,PTGS2 (interacts with) TP53,Second_Neighbor_Third,PTGS2,TP53
+ALDH1A1 -> CYP2B6 -> PTGS2 -> TP53 -> PARP1,5,PTGS2 (interacts with) CYP2B6,First_Neighbor_Second,PTGS2,CYP2B6
+ALDH1A1 -> CYP2B6 -> PTGS2 -> TP53 -> PARP1,5,PARP1 (interacts with) TP53,Third_Neighbor_Fourth,PARP1,TP53
+ABL1 -> ATM -> TP53 -> PTGS2,4,ATM (interacts with) ABL1,Input_First_Neighbor,ATM,ABL1
+ABL1 -> ATM -> TP53 -> PTGS2,4,TP53 (interacts with) ATM,First_Neighbor_Second,TP53,ATM
+ALDH1A1 -> CYP2B6 -> PTGS2 -> STAT3 -> EP300,5,EP300 (interacts with) STAT3,Third_Neighbor_Fourth,EP300,STAT3
+MEN1 -> JUND -> MAPK8 -> GSTP1 -> GSTM1,5,MAPK8 (interacts with) JUND,First_Neighbor_Second,MAPK8,JUND
+MEN1 -> JUND -> MAPK8 -> GSTP1 -> GSTM1,5,GSTP1 (interacts with) MAPK8,Second_Neighbor_Third,GSTP1,MAPK8
+GAA -> GYG1 -> GYS1 -> PPP1CA -> GRIN2A,5,GYS1 (interacts with) GYG1,First_Neighbor_Second,GYS1,GYG1
+GAA -> GYG1 -> GYS1 -> PPP1CA -> GRIN2A,5,PPP1CA (interacts with) GYS1,Second_Neighbor_Third,PPP1CA,GYS1
+GAA -> GYG1 -> GYS1 -> PPP1CA -> GRIN2A,5,GRIN2A (interacts with) PPP1CA,Third_Neighbor_Fourth,GRIN2A,PPP1CA
+KMT2A -> CREBBP -> FOXO1 -> STK4,4,FOXO1 (interacts with) CREBBP,First_Neighbor_Second,FOXO1,CREBBP
+HDAC6 -> MAPT -> PRKACA -> GRIN2A,4,PRKACA (interacts with) MAPT,First_Neighbor_Second,PRKACA,MAPT
+HDAC6 -> MAPT -> PRKACA -> GRIN2A,4,GRIN2A (interacts with) PRKACA,Second_Neighbor_Third,GRIN2A,PRKACA
+GAA -> GYG1 -> PYGB -> RIPK3 -> TNF,5,PYGB (interacts with) GYG1,First_Neighbor_Second,PYGB,GYG1
+GAA -> GYG1 -> PYGB -> RIPK3 -> TNF,5,RIPK3 (interacts with) PYGB,Second_Neighbor_Third,RIPK3,PYGB
+GAA -> GYG1 -> PYGB -> RIPK3 -> TNF,5,TNF (interacts with) RIPK3,Third_Neighbor_Fourth,TNF,RIPK3
+MEN1 -> WDR5 -> ACTB -> PRKCA -> PRKD1,5,PRKCA (interacts with) ACTB,Second_Neighbor_Third,PRKCA,ACTB
+MEN1 -> CTNNB1 -> NFKB1 -> TNF,4,NFKB1 (interacts with) CTNNB1,First_Neighbor_Second,NFKB1,CTNNB1
+MEN1 -> CTNNB1 -> NFKB1 -> TNF,4,TNF (interacts with) NFKB1,Second_Neighbor_Third,TNF,NFKB1
+ABL1 -> FYN -> GRIN2A,3,FYN (interacts with) ABL1,Input_First_Neighbor,FYN,ABL1
+ABL1 -> FYN -> GRIN2A,3,GRIN2A (interacts with) FYN,First_Neighbor_Second,GRIN2A,FYN
+ABL1 -> RAD52 -> RPA2 -> PARP1,4,RAD52 (interacts with) ABL1,Input_First_Neighbor,RAD52,ABL1
+HDAC6 -> EP300 -> NFKB1 -> IL6,4,NFKB1 (interacts with) EP300,First_Neighbor_Second,NFKB1,EP300
+HDAC6 -> EP300 -> NFKB1 -> IL6,4,IL6 (interacts with) NFKB1,Second_Neighbor_Third,IL6,NFKB1
+TSHR -> POMC -> FOXO1 -> STK4,4,FOXO1 (interacts with) POMC,First_Neighbor_Second,FOXO1,POMC
+MEN1 -> CTNNB1 -> CASP3 -> STK4,4,STK4 (interacts with) CASP3,Second_Neighbor_Third,STK4,CASP3
+ALDH1A1 -> EPHX2 -> PRKAG1 -> FOXO1 -> STK4,5,FOXO1 (interacts with) PRKAG1,Second_Neighbor_Third,FOXO1,PRKAG1
+TSHR -> POMC -> PDYN -> GRIN2A,4,PDYN (interacts with) POMC,First_Neighbor_Second,PDYN,POMC
+TSHR -> POMC -> PDYN -> GRIN2A,4,GRIN2A (interacts with) PDYN,Second_Neighbor_Third,GRIN2A,PDYN
+TSHR -> GNAQ -> RHOA -> RAP1A -> PRKD1,5,RHOA (interacts with) GNAQ,First_Neighbor_Second,RHOA,GNAQ
+KMT2A -> CREB1 -> MECP2 -> GRIN2A,4,MECP2 (interacts with) CREB1,First_Neighbor_Second,MECP2,CREB1
+KMT2A -> CREB1 -> MECP2 -> GRIN2A,4,GRIN2A (interacts with) MECP2,Second_Neighbor_Third,GRIN2A,MECP2
+ALDH1A1 -> EPHX2 -> PRKAG2 -> PRKACA -> GRIN2A,5,PRKAG2 (interacts with) EPHX2,First_Neighbor_Second,PRKAG2,EPHX2
+ALDH1A1 -> EPHX2 -> PRKAG2 -> PRKACA -> GRIN2A,5,PRKACA (interacts with) PRKAG2,Second_Neighbor_Third,PRKACA,PRKAG2
+HDAC6 -> EP300 -> PARP1,3,PARP1 (interacts with) EP300,First_Neighbor_Second,PARP1,EP300
+MEN1 -> CTNNB1 -> PRKACA -> GRIN2A,4,PRKACA (interacts with) CTNNB1,First_Neighbor_Second,PRKACA,CTNNB1
+TSHR -> IGHV3-16 -> TNF,3,TNF (interacts with) IGHV3-16,First_Neighbor_Second,TNF,IGHV3-16
+MEN1 -> CTNNB1 -> EP300,3,EP300 (interacts with) CTNNB1,First_Neighbor_Second,EP300,CTNNB1
+MEN1 -> CTNNB1 -> EGFR -> STAT3 -> PTGS2,5,EGFR (interacts with) CTNNB1,First_Neighbor_Second,EGFR,CTNNB1
+MEN1 -> CTNNB1 -> EGFR -> STAT3 -> PTGS2,5,STAT3 (interacts with) EGFR,Second_Neighbor_Third,STAT3,EGFR
+HDAC6 -> EP300 -> FOXO1 -> STK4,4,FOXO1 (interacts with) EP300,First_Neighbor_Second,FOXO1,EP300
+ABL1 -> CDK5 -> JUN -> TNF,4,CDK5 (interacts with) ABL1,Input_First_Neighbor,CDK5,ABL1
+SRR -> AGXT -> GLYCTK -> PKM -> PRKACA -> GRIN2A,6,GLYCTK (interacts with) AGXT,First_Neighbor_Second,GLYCTK,AGXT
+SRR -> AGXT -> GLYCTK -> PKM -> PRKACA -> GRIN2A,6,PKM (interacts with) GLYCTK,Second_Neighbor_Third,PKM,GLYCTK
+SRR -> AGXT -> GLYCTK -> PKM -> PRKACA -> GRIN2A,6,PRKACA (interacts with) PKM,Third_Neighbor_Fourth,PRKACA,PKM
+SRR -> SHMT1 -> DHFR -> CBR1 -> PTGES -> PTGS2,6,DHFR (interacts with) SHMT1,First_Neighbor_Second,DHFR,SHMT1
+SRR -> SHMT1 -> DHFR -> CBR1 -> PTGES -> PTGS2,6,CBR1 (interacts with) DHFR,Second_Neighbor_Third,CBR1,DHFR
+SRR -> PSPH -> CDIPT -> PLCE1 -> RAP1A -> PRKD1,6,CDIPT (interacts with) PSPH,First_Neighbor_Second,CDIPT,PSPH
+SRR -> SHMT2 -> BABAM1 -> BRCA1 -> EP300 -> PARP1,6,BABAM1 (interacts with) SHMT2,First_Neighbor_Second,BABAM1,SHMT2
+SRR -> SHMT2 -> BABAM1 -> BRCA1 -> EP300 -> PARP1,6,BRCA1 (interacts with) BABAM1,Second_Neighbor_Third,BRCA1,BABAM1
+SRR -> SHMT2 -> BABAM1 -> BRCA1 -> EP300 -> PARP1,6,EP300 (interacts with) BRCA1,Third_Neighbor_Fourth,EP300,BRCA1
+SRR -> PSPH -> NUDT12 -> SIRT1 -> NFKB1 -> IL6,6,NUDT12 (interacts with) PSPH,First_Neighbor_Second,NUDT12,PSPH
+SRR -> PSPH -> NUDT12 -> SIRT1 -> NFKB1 -> IL6,6,SIRT1 (interacts with) NUDT12,Second_Neighbor_Third,SIRT1,NUDT12
+SRR -> PSPH -> NUDT12 -> SIRT1 -> NFKB1 -> IL6,6,NFKB1 (interacts with) SIRT1,Third_Neighbor_Fourth,NFKB1,SIRT1
+SRR -> AGXT -> GLYCTK -> GAPDH -> TRADD -> TNF,6,GAPDH (interacts with) GLYCTK,Second_Neighbor_Third,GAPDH,GLYCTK
+SRR -> PSPH -> NUDT12 -> SIRT1 -> FOXO1 -> STK4,6,FOXO1 (interacts with) SIRT1,Third_Neighbor_Fourth,FOXO1,SIRT1
