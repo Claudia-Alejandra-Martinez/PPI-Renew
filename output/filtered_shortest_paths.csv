@@ -1,0 +1,154 @@
+Common_Full_Path,Path_Length,Target_Compounds,Compounds_2,First_Node,Starts_Same_Target
+ABL1 -> ATM -> TP53 -> PTGS2,4,Choline Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+KMT2A -> CREB1 -> IL6,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+GAA -> HK1 -> BAX -> AFDN -> RAP1A -> PRKD1,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+KMT2A -> CREBBP -> FOXO1 -> STK4,4,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+MEN1 -> CTNNB1 -> EP300,3,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+TSHR -> IGHV3-16 -> TNF,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+HDAC6 -> MAPT -> PRKACA -> GRIN2A,4,Choline Folic acid Glycine,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,HDAC6,Same
+GAA -> HK1 -> BAX -> TP53 -> EHMT1 -> IL6,6,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+HDAC6 -> UBC -> TNF,3,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Different
+ALDH1A1 -> CYP2B6 -> PTGS2 -> STAT3 -> EP300,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+MEN1 -> CTNNB1 -> NFKB1 -> TNF,4,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+HDAC6 -> EGFR -> PRKCA -> PRKD1,4,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+ALDH1A1 -> EPHX2 -> PRKAG1 -> FOXO1 -> STK4,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+HDAC6 -> EP300,2,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+TSHR -> GNB1 -> FAU -> HSD3B1 -> CYP2E1 -> GSTM1,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+ALDH1A1 -> CYP1A1 -> GSTM1,3,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+TSHR -> POMC -> PDYN -> GRIN2A,4,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,TSHR,Same
+KMT2A -> CREBBP -> NFE2L2 -> GSR -> GSTM1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+TSHR -> GCG -> PAX6 -> EP300,4,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+ABL1 -> PIK3R1 -> RAP1A -> PRKD1,4,Choline Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+KMT2A -> UBC -> TNF,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Different
+GAA -> HK1 -> BAX -> TP53 -> PARP1,5,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+MEN1 -> JUND -> MAPK8 -> GSTP1 -> GSTM1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+ALDH1A1 -> CYP2B6 -> PTGS2,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+HDAC6 -> EP300 -> NFKB1 -> IL6,4,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+HDAC6 -> EP300 -> FOXO1 -> STK4,4,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+TSHR -> GNAQ -> NRAS -> PRKCG -> PRKD1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+KMT2A -> CREBBP -> CAMK2A -> RAP1A -> PRKD1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+MEN1 -> CTNNB1 -> CASP3 -> PARP1,4,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+ABL1 -> SHC1 -> IL6R -> IL6,4,Choline Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+MEN1 -> KMT2A -> KAT8 -> TP53 -> PTGS2,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+GAA -> HK1 -> BAX -> SFN -> FOXO1 -> STK4,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+ABL1 -> FYN -> GRIN2A,3,Choline Magnesium,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,ABL1,Same
+ABL1 -> CDK5 -> JUN -> TNF,4,Choline Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ABL1 -> TP73 -> EP300,3,Choline Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+GAA -> GLA -> AKR1B1 -> AKR1C3 -> CYP3A4 -> GSTM1,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+ABL1 -> YWHAG -> FOXO1 -> STK4,4,Choline Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+MEN1 -> WDR5 -> ACTB -> PRKCA -> PRKD1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+KMT2A -> CREB1 -> MECP2 -> GRIN2A,4,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,KMT2A,Same
+TSHR -> POMC -> FOXO1 -> STK4,4,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+HDAC6 -> EP300 -> PARP1,3,Choline Folic acid Glycine,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+MEN1 -> CTNNB1 -> CASP3 -> STK4,4,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+GAA -> HK1 -> BAX -> TP53 -> EP300,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+TSHR -> IGHV3-16 -> IL6R -> STAT3 -> PTGS2,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+GAA -> GYG1 -> PYGB -> RIPK3 -> TNF,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+ALDH1A1 -> EPHX2 -> PRKAG2 -> PRKACA -> GRIN2A,5,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,ALDH1A1,Same
+MEN1 -> CTNNB1 -> NFKB1 -> IL6,4,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+TSHR -> GCG -> CTNNB1 -> CASP3 -> PARP1,5,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+ABL1 -> RAD52 -> RPA2 -> PARP1,4,Choline Magnesium,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ALDH1A1 -> CYP1A1 -> GSTP1 -> TRAF2 -> TNF,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+GAA -> GYG1 -> GYS1 -> PPP1CA -> GRIN2A,5,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,GAA,Same
+ALDH1A1 -> EPHX2 -> PRKAG1 -> MTOR -> PRKCA -> PRKD1,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+ALDH1A1 -> CYP2B6 -> PTGS2 -> STAT3 -> JAK1 -> IL6,6,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+GAA -> HK1 -> BAX -> TP53 -> PTGS2,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+KMT2A -> H4C6 -> PARP1,3,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+TSHR -> IGLL5 -> IL6,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+MEN1 -> CTNNB1 -> PRKACA -> GRIN2A,4,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,MEN1,Same
+HDAC6 -> PTGES3 -> PTGS2,3,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+HDAC6 -> PTGES3 -> HPGDS -> CYP1A2 -> GSTM1,5,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+KMT2A -> H3C6 -> TP53 -> PTGS2,4,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+KMT2A -> H3C6 -> EP300,3,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+ALDH1A1 -> CYP2B6 -> PTGS2 -> TP53 -> PARP1,5,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+ABL1 -> PIK3R1 -> TRAF2 -> GSTP1 -> GSTM1,5,Choline Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ALDH1A1 -> EPHX2 -> PRKAG1 -> FOXO1 -> STK4,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+HDAC6 -> EP300,2,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+TSHR -> GNB1 -> FAU -> HSD3B1 -> CYP2E1 -> GSTM1,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+GAA -> GLA -> AKR1B1 -> AKR1C3 -> CYP3A4 -> GSTM1,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+ALDH1A1 -> CYP1A1 -> GSTM1,3,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+TSHR -> POMC -> PDYN -> GRIN2A,4,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,TSHR,Same
+ALDH1A1 -> CYP2B6 -> PTGS2 -> STAT3 -> JAK1 -> IL6,6,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+KMT2A -> CREBBP -> NFE2L2 -> GSR -> GSTM1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+MEN1 -> WDR5 -> ACTB -> PRKCA -> PRKD1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+GAA -> HK1 -> BAX -> TP53 -> PTGS2,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+KMT2A -> CREB1 -> MECP2 -> GRIN2A,4,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,KMT2A,Same
+TSHR -> POMC -> FOXO1 -> STK4,4,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+HDAC6 -> EP300 -> PARP1,3,Choline Folic acid Glycine,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+MEN1 -> CTNNB1 -> CASP3 -> STK4,4,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+KMT2A -> H4C6 -> PARP1,3,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+KMT2A -> CREB1 -> IL6,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+GAA -> HK1 -> BAX -> AFDN -> RAP1A -> PRKD1,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+TSHR -> GCG -> PAX6 -> EP300,4,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+GAA -> HK1 -> BAX -> TP53 -> EP300,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+KMT2A -> CREBBP -> FOXO1 -> STK4,4,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+TSHR -> IGLL5 -> IL6,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+MEN1 -> CTNNB1 -> EP300,3,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+KMT2A -> UBC -> TNF,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Different
+GAA -> HK1 -> BAX -> TP53 -> PARP1,5,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+TSHR -> IGHV3-16 -> IL6R -> STAT3 -> PTGS2,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+GAA -> GYG1 -> PYGB -> RIPK3 -> TNF,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+MEN1 -> JUND -> MAPK8 -> GSTP1 -> GSTM1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+ALDH1A1 -> CYP2B6 -> PTGS2,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+ALDH1A1 -> EPHX2 -> PRKAG2 -> PRKACA -> GRIN2A,5,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,ALDH1A1,Same
+MEN1 -> CTNNB1 -> PRKACA -> GRIN2A,4,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,MEN1,Same
+HDAC6 -> PTGES3 -> PTGS2,3,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+MEN1 -> CTNNB1 -> NFKB1 -> IL6,4,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+HDAC6 -> EP300 -> NFKB1 -> IL6,4,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+HDAC6 -> EP300 -> FOXO1 -> STK4,4,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+TSHR -> GNAQ -> NRAS -> PRKCG -> PRKD1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+TSHR -> GCG -> CTNNB1 -> CASP3 -> PARP1,5,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+KMT2A -> CREBBP -> CAMK2A -> RAP1A -> PRKD1,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+MEN1 -> CTNNB1 -> CASP3 -> PARP1,4,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+TSHR -> IGHV3-16 -> TNF,3,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,TSHR,Same
+HDAC6 -> PTGES3 -> HPGDS -> CYP1A2 -> GSTM1,5,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+KMT2A -> H3C6 -> TP53 -> PTGS2,4,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+HDAC6 -> MAPT -> PRKACA -> GRIN2A,4,Choline Folic acid Glycine,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,HDAC6,Same
+ALDH1A1 -> CYP1A1 -> GSTP1 -> TRAF2 -> TNF,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+GAA -> HK1 -> BAX -> TP53 -> EHMT1 -> IL6,6,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+HDAC6 -> UBC -> TNF,3,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Different
+KMT2A -> H3C6 -> EP300,3,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,KMT2A,Same
+GAA -> GYG1 -> GYS1 -> PPP1CA -> GRIN2A,5,Choline Folic acid,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,GAA,Same
+ALDH1A1 -> CYP2B6 -> PTGS2 -> TP53 -> PARP1,5,Choline Folic acid,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+ALDH1A1 -> CYP2B6 -> PTGS2 -> STAT3 -> EP300,5,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+MEN1 -> KMT2A -> KAT8 -> TP53 -> PTGS2,5,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+GAA -> HK1 -> BAX -> SFN -> FOXO1 -> STK4,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,GAA,Same
+ALDH1A1 -> EPHX2 -> PRKAG1 -> MTOR -> PRKCA -> PRKD1,6,Choline Folic acid,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ALDH1A1,Same
+MEN1 -> CTNNB1 -> NFKB1 -> TNF,4,Choline Folic acid,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,MEN1,Same
+HDAC6 -> EGFR -> PRKCA -> PRKD1,4,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+HDAC6 -> EP300,2,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+HDAC6 -> PTGES3 -> PTGS2,3,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+HDAC6 -> EP300 -> NFKB1 -> IL6,4,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+HDAC6 -> EP300 -> FOXO1 -> STK4,4,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+SRR -> PSPH -> NUDT12 -> SIRT1 -> FOXO1 -> STK4,6,Glycine Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+HDAC6 -> PTGES3 -> HPGDS -> CYP1A2 -> GSTM1,5,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+HDAC6 -> MAPT -> PRKACA -> GRIN2A,4,Choline Folic acid Glycine,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,HDAC6,Same
+SRR -> PSPH -> NUDT12 -> CD38 -> IGHV3-43D -> TNF,6,Glycine Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> SHMT2 -> BABAM1 -> BRCA1 -> EP300,5,Glycine Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+HDAC6 -> EP300 -> PARP1,3,Choline Folic acid Glycine,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+SRR -> SHMT1 -> DHFR -> CBR1 -> CYP1A1 -> GSTM1,6,Glycine Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> SHMT2 -> BABAM1 -> TNKS -> RNF146 -> PARP1,6,Glycine Magnesium,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+HDAC6 -> UBC -> TNF,3,Choline Folic acid Glycine,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Different
+SRR -> PSPH -> CDIPT -> PLCE1 -> RAP1A -> PRKD1,6,Glycine Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> SHMT1 -> ALDH1L1 -> EPHX2 -> CYP2B6 -> PTGS2,6,Glycine Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> SHMT2 -> BABAM1 -> BRCA1 -> PPP1CA -> GRIN2A,6,Glycine Magnesium,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,SRR,Same
+SRR -> PSPH -> CDIPT -> PLCG1 -> JAK2 -> IL6,6,Glycine Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+HDAC6 -> EGFR -> PRKCA -> PRKD1,4,Choline Folic acid Glycine,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,HDAC6,Same
+SRR -> PSPH -> NUDT12 -> SIRT1 -> FOXO1 -> STK4,6,Glycine Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> SHMT2 -> BABAM1 -> BRCA1 -> PPP1CA -> GRIN2A,6,Glycine Magnesium,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,SRR,Same
+ABL1 -> PIK3R1 -> RAP1A -> PRKD1,4,Choline Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ABL1 -> SHC1 -> IL6R -> IL6,4,Choline Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ABL1 -> FYN -> GRIN2A,3,Choline Magnesium,Fatigue Nootropic Cell_growth Immune_system Nervous_system Pain,ABL1,Same
+SRR -> PSPH -> CDIPT -> PLCE1 -> RAP1A -> PRKD1,6,Glycine Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+ABL1 -> RAD52 -> RPA2 -> PARP1,4,Choline Magnesium,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ABL1 -> PIK3R1 -> TRAF2 -> GSTP1 -> GSTM1,5,Choline Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ABL1 -> ATM -> TP53 -> PTGS2,4,Choline Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+SRR -> SHMT1 -> DHFR -> CBR1 -> CYP1A1 -> GSTM1,6,Glycine Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> SHMT2 -> BABAM1 -> BRCA1 -> EP300,5,Glycine Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> SHMT2 -> BABAM1 -> TNKS -> RNF146 -> PARP1,6,Glycine Magnesium,Sleep Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+ABL1 -> CDK5 -> JUN -> TNF,4,Choline Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ABL1 -> TP73 -> EP300,3,Choline Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+ABL1 -> YWHAG -> FOXO1 -> STK4,4,Choline Magnesium,Nootropic Cell_growth Immune_system Metabolism Nervous_system Pain,ABL1,Same
+SRR -> SHMT1 -> ALDH1L1 -> EPHX2 -> CYP2B6 -> PTGS2,6,Glycine Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> PSPH -> CDIPT -> PLCG1 -> JAK2 -> IL6,6,Glycine Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
+SRR -> PSPH -> NUDT12 -> CD38 -> IGHV3-43D -> TNF,6,Glycine Magnesium,Fatigue Cell_growth Immune_system Metabolism Nervous_system Pain,SRR,Same
