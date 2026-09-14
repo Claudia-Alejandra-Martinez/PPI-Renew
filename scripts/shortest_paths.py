@@ -23,11 +23,11 @@ Data = pd.read_csv("Renew_Contition_PPI.csv")
 G = nx.from_pandas_edgelist(Data, 'Prot_A', 'Prot_B')
 
 # --- Load Targets and Targets_Diseases tables ---
-Targets = pd.read_csv("input_table_1.csv")
+Targets = pd.read_csv("Renew_PPI_tags.csv")
 # Filter only the Targets from table 1 (Neighborhood_1 == "Target")
 Targets_filtered = Targets[Targets['Neighborhood_1'] == 'Target']
 
-Targets_2 = pd.read_csv("Renew_PPI_tags.csv")
+Targets_2 = pd.read_csv("Conditions_PPI_tags.csv")
 # Filter only the Targets from table 2
 Targets_Diseases = Targets_2[Targets_2['Neighborhood_1'] == 'Target']
 # List of Targets from table 2
